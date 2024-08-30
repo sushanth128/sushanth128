@@ -1,4 +1,5 @@
-- Hi, I’m @sushanth128. I'm a 24 years old grad student 
+- Hi I’m sushanth
+- I'm a 24 years old grad student 
 - You can reach me on my email: sushanth.reddyg8@gmail.com
 - Gn 
 
