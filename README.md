@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sushanth128. I'm 23 years old
-- 📫 You can reach me on my email: sushanth.reddyg8@gmail.com
+- Hi, I’m @sushanth128. I'm a 24 years old grad student 
+- You can reach me on my email: sushanth.reddyg8@gmail.com
+- Gn 
 
 <!---
 sushanth128/sushanth128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
