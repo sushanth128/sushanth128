@@ -2,10 +2,16 @@
 
 **` Machine Learning | Data Science | Art `**
 
-Hi, I'm Sushanth! 
-I'm a Data Science and ML enthusiast, who's just graduated from Carnegie Mellon with a Master's degree in Information Systems Management. 
+Hi, I'm Sushanth! Welcome to my GitHub!
 
-My projects span diverse domains such as Computer Vision, Business Analytics, and Predictive Modeling, where I combine technical expertise with creative problem-solving to drive impactful solutions. 
+Education: 
+Bachelor of Technology at Manipal Institute of Technology
+Master of Information Systems Management at Carnegie Mellon University
+
+Professional Experience:
+Machine Learning Intern at Quantiphi
+Machine Learning Engineer at Quantiphi
+
 
 <!---
 sushanth128/sushanth128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
