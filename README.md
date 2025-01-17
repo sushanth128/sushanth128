@@ -4,12 +4,16 @@
 
 Hi, I'm Sushanth! Welcome to my GitHub!
 
-Education: 
+## Education
+
 Bachelor of Technology at Manipal Institute of Technology
+
 Master of Information Systems Management at Carnegie Mellon University
 
-Professional Experience:
+## Professional Experience
+
 Machine Learning Intern at Quantiphi
+
 Machine Learning Engineer at Quantiphi
 
 
