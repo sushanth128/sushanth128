@@ -16,6 +16,8 @@ Machine Learning Intern at Quantiphi
 
 Machine Learning Engineer at Quantiphi
 
+Research Analyst Intern at Carnegie Mellon University
+
 
 <!---
 sushanth128/sushanth128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
