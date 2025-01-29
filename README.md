@@ -20,16 +20,25 @@ Coursework: Machine Learning, Artificial Intelligence, Distributed Cloud Computi
 
 Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distributed Systems, Unstructured Data Analytics, Computer Vision, Advanced Business Analytics, Organizational Design and Implementation
 
-Teaching Assistant: Applied Econometrics (Spring & Fall ‘24)
+Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical Inference, Hypothesis Testing
 
 ## 🔹 Professional Experience
 
 Machine Learning Intern at Quantiphi Inc.
 
-- Worked on the optimization of a Recommender System that suggested product assortment to Coca-Cola Bottlers. The optimization involved
-- 
+[Programming (Python) , Machine Learning (SciKitLearn) , Data Analysis (Pandas), Cloud Technologies (Microsoft Azure)]
+
+- Optimized a Recommender System for Coca-Cola Bottlers by refining data pipelines, implementing Latent Factor Models and Random Forest for collaborative filtering and ranking, and optimizing model performance. Deployed on Azure Databricks, this system boosted product assortment accuracy, leading to a 21% increase in quarterly profit margins and streamlined inventory management across 30,000+ stores
+- Developed an end-to-end Customer Churn prediction model with 96% accuracy, leveraging complex datasets and advanced machine learning algorithms
+
 
 Machine Learning Engineer at Quantiphi Inc. 
+
+[Programming (Python, PySpark) , Machine Learning (SciKitLearn) , Data Analysis (Pandas)]
+
+- Conducted research on pricing anomaly detection, customer segmentation and labor demand forecasting, leveraging order and invoice datasets to identify pricing inconsistencies and optimize workforce allocation strategies for better operational planning
+- 
+
 
 wergvewgveg
 
@@ -44,6 +53,7 @@ wregvegve
 
 
 ## 🔹 Leadership and Awards
+
 
 
 
