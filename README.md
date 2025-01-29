@@ -8,13 +8,13 @@ Here's a little bit about me (I will make this look more aesthetic soon):
 
 ## 🔹 Education
 
-### Bachelor of Technology, Computer Science Engineering at Manipal Institute of Technology (2017 - 2021)
+### ✰ Bachelor of Technology, Computer Science Engineering at Manipal Institute of Technology (2017 - 2021)
 
 #### Minor Specialization in Intelligent Systems 
 
 Coursework: Machine Learning, Artificial Intelligence, Distributed Cloud Computing, Computer Vision, Natural Language Processing, Social Network Analysis, Operating Systems, Data Structures and Algorithms
 
-### Master of Information Systems Management at Carnegie Mellon University (2023 - 2024)
+### ✰ Master of Information Systems Management at Carnegie Mellon University (2023 - 2024)
 
 #### With a Focus in Business Intelligence and Data Analytics
 
@@ -24,15 +24,7 @@ Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical 
 
 ## 🔹 Professional Experience
 
-Machine Learning Intern at Quantiphi Inc.
-
-[Programming (Python), Machine Learning (SciKitLearn), Data Analysis (Pandas), Cloud Technologies (Microsoft Azure)]
-
-- Optimized a Recommender System for Coca-Cola Bottlers by refining data pipelines, implementing Latent Factor Models and Random Forest for collaborative filtering and ranking, and optimizing model performance. Deployed on Azure Databricks, this system boosted product assortment accuracy, leading to a 21% increase in quarterly profit margins and streamlined inventory management across 30,000+ stores
-- Developed an end-to-end Customer Churn prediction model with 96% accuracy, leveraging complex datasets and advanced machine learning algorithms
-
-
-Machine Learning Engineer at Quantiphi Inc. 
+#### ✰ Machine Learning Engineer at Quantiphi Inc. 
 
 [Machine Learning (XGBoost, HMM, GMM, SciKitLearn), Data Engineering (PySpark, Azure Databricks, MLflow), Forecasting & Optimization, Cloud & MLOps (CI/CD, Model Deployment, Kubernetes), Data Analysis (SQL, Pandas)]
 
@@ -42,7 +34,14 @@ Machine Learning Engineer at Quantiphi Inc.
 - Led the migration of legacy machine learning pipelines to a scalable, cloud-based architecture using Azure Databricks, PySpark, and MLflow, ensuring seamless integration and improved model performance.
 - Conducted research on pricing anomaly detection, customer segmentation, and labor demand forecasting, leveraging order and invoice datasets to identify pricing inconsistencies and optimize workforce allocation strategies for better operational planning
 
-Research Analyst Intern at Carnegie Mellon University
+#### ✰ Machine Learning Intern at Quantiphi Inc.
+
+[Programming (Python), Machine Learning (SciKitLearn), Data Analysis (Pandas), Cloud Technologies (Microsoft Azure)]
+
+- Optimized a Recommender System for Coca-Cola Bottlers by refining data pipelines, implementing Latent Factor Models and Random Forest for collaborative filtering and ranking, and optimizing model performance. Deployed on Azure Databricks, this system boosted product assortment accuracy, leading to a 21% increase in quarterly profit margins and streamlined inventory management across 30,000+ stores
+- Developed an end-to-end Customer Churn prediction model with 96% accuracy, leveraging complex datasets and advanced machine learning algorithms
+
+#### ✰ Research Analyst Intern at Carnegie Mellon University
 
 [Machine Learning (XGBoost, SciKitLearn, Time-Series Forecasting), Blockchain & Smart Contracts (Ethereum, Solidity), Data Engineering (PySpark, SQL), Predictive Modeling, Data Analysis (Pandas, NumPy)]
 
