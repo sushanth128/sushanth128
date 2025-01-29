@@ -6,7 +6,7 @@ Hi, I'm Sushanth! Welcome to my GitHub!
 
 Here's a little bit about me (I will make this look more aesthetic soon):
 
-## 🔹 Education
+## 🔹 Education 𓆝 𓆟 𓆞
 
 ### ✰ Bachelor of Technology, Computer Science Engineering at Manipal Institute of Technology (2017 - 2021)
 
@@ -22,7 +22,7 @@ Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distribu
 
 Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical Inference, Hypothesis Testing
 
-## 🔹 Professional Experience
+## 🔹 Professional Experience 𓆝 𓆟 𓆞
 
 #### ✰ Machine Learning Engineer at Quantiphi Inc. 
 
@@ -50,13 +50,13 @@ Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical 
 - Researched blockchain security protocols, consensus mechanisms (PoS & PoW), and smart contract vulnerabilities to enhance the reliability and efficiency of decentralized transactions. Presented findings and technical insights to faculty and stakeholders
 
 
-## 🔹 Projects 
+## 🔹 Projects 𓆝 𓆟 𓆞
 
 
-## 🔹 Volunteering
+## 🔹 Volunteering 𓆝 𓆟 𓆞
 
 
-## 🔹 Leadership and Awards
+## 🔹 Leadership and Awards 𓆝 𓆟 𓆞
 
 
 
