@@ -45,7 +45,7 @@ Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical 
 
 #### ✰ Research Analyst Intern at Carnegie Mellon University
 
-[Machine Learning (XGBoost, SciKitLearn, Time-Series Forecasting), Blockchain & Smart Contracts (Ethereum, Solidity), Data Engineering (PySpark, SQL), Predictive Modeling, Data Analysis (Pandas, NumPy)]
+[Machine Learning (XGBoost, SciKitLearn, Time-Series Forecasting), Blockchain & Smart Contracts (Ethereum, Bitcoin), Data Engineering (PySpark, SQL), Predictive Modeling, Data Analysis (Pandas, NumPy)]
 
 - Designed and developed a prototype utility token for the travel industry using the Ethereum blockchain platform, enabling secure and decentralized travel transactions
 - Conducted market analysis on 100K+ transaction records to identify token adoption trends and forecasted a 20% growth potential in the tourism sector
