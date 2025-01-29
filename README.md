@@ -6,7 +6,7 @@ Hi, I'm Sushanth! Welcome to my GitHub!
 
 Here's a little bit about me (I will make this look more aesthetic soon):
 
-## Education
+## 🔹 Education
 
 ### Bachelor of Technology, Computer Science Engineering at Manipal Institute of Technology (2017 - 2021)
 
@@ -22,7 +22,7 @@ Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distribu
 
 Teaching Assistant: Applied Econometrics (Spring & Fall ‘24)
 
-## Professional Experience
+## 🔹 Professional Experience
 
 Machine Learning Intern at Quantiphi Inc.
 
@@ -37,13 +37,13 @@ Research Analyst Intern at Carnegie Mellon University
 
 wregvegve
 
-## Projects 
+## 🔹 Projects 
 
 
-## Volunteering
+## 🔹 Volunteering
 
 
-## Leadership and Awards
+## 🔹 Leadership and Awards
 
 
 
