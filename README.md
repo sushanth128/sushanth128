@@ -20,7 +20,7 @@ Coursework: Machine Learning, Artificial Intelligence, Distributed Cloud Computi
 
 #### With a Focus in Business Intelligence and Data Analytics
 
-Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distributed Systems, Unstructured Data Analytics, Computer Vision, Advanced Business Analytics, Organizational Design and Implementation
+Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distributed Systems, Unstructured Data Analytics, Computer Vision, Advanced Business Analytics, Data Analytics with Tableau, Organizational Design and Implementation
 
 Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical Inference, Hypothesis Testing
 
