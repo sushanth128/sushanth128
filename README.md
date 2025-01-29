@@ -20,11 +20,14 @@ Coursework: Machine Learning, Artificial Intelligence, Distributed Cloud Computi
 
 Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distributed Systems, Unstructured Data Analytics, Computer Vision, Advanced Business Analytics, Organizational Design and Implementation
 
+Teaching Assistant: Applied Econometrics (Spring & Fall ‘24)
+
 ## Professional Experience
 
 Machine Learning Intern at Quantiphi Inc.
 
-erferfgerg
+- Worked on the optimization of a Recommender System that suggested product assortment to Coca-Cola Bottlers. The optimization involved
+- 
 
 Machine Learning Engineer at Quantiphi Inc. 
 
