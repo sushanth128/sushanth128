@@ -16,7 +16,7 @@ Coursework: Machine Learning, Artificial Intelligence, Distributed Cloud Computi
 
 ### Master of Information Systems Management at Carnegie Mellon University (2023 - 2024)
 
-with a Focus in Business Intelligence and Data Analytics
+#### With a Focus in Business Intelligence and Data Analytics
 
 Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distributed Systems, Unstructured Data Analytics, Computer Vision, Advanced Business Analytics, Organizational Design and Implementation
 
