@@ -14,19 +14,33 @@ Here's a little bit about me (I will make this look more aesthetic soon):
 
 Coursework: Machine Learning, Artificial Intelligence, Distributed Cloud Computing, Computer Vision, Natural Language Processing, Social Network Analysis, Operating Systems, Data Structures and Algorithms
 
-### Master of Information Systems Management - Business Intelligence and Data Analytics at Carnegie Mellon University (2023 - 2024)
+### Master of Information Systems Management at Carnegie Mellon University (2023 - 2024)
 
-Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distributed Systems, Unstructured Data Analytics, Computer Vision 
+with a Focus in Business Intelligence and Data Analytics
 
+Coursework: Machine Learning, Operationalizing Artificial Intelligence, Distributed Systems, Unstructured Data Analytics, Computer Vision, Advanced Business Analytics, Organizational Design and Implementation
 
 ## Professional Experience
 
 Machine Learning Intern at Quantiphi Inc.
 
+erferfgerg
+
 Machine Learning Engineer at Quantiphi Inc. 
+
+wergvewgveg
 
 Research Analyst Intern at Carnegie Mellon University
 
+wregvegve
+
+## Projects 
+
+
+## Volunteering
+
+
+## Leadership and Awards
 
 
 
