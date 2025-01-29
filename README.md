@@ -2,7 +2,7 @@
 
 **` Machine Learning | Data Science | Art `**
 
-Hi, I'm Sushanth! Welcome to my GitHub!
+Hi, I'm Sushanth! Welcome to my GitHub! 
 
 Here's a little bit about me (I will make this look more aesthetic soon):
 
