@@ -60,6 +60,24 @@ Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical 
 
 ## 🔹 Leadership and Awards 𓆝 𓆟 𓆞
 
+#### 🏆 Awards
+
+Outstanding Innovation Award – Recognized at Quantiphi for leading the development of the Inventory Tracking System, improving operational efficiency and data accuracy by 35%.
+
+Contribution and Reliability Award – Awarded at Quantiphi for the successful deployment of an Out-of-Stock Detection System.
+
+#### 🌟 Leadership & Extracurriculars
+
+Member, Data Science Club | Carnegie Mellon University – Engaged in discussions, mentorship, and workshops focused on AI and machine learning advancements.
+
+Social Media Head, Revels (Manipal's Annual Cultural Fest) – Led content strategy and execution, driving engagement for one of Manipal’s biggest cultural events.
+
+Sub-Head of Writing, Manipal The Talk Network (MTTN) – Oversaw editorial direction, content planning, and writing mentorship.
+
+Editor, Editorial Board – Managed and refined high-quality written content for university publications.
+
+Writer, MTTN – Contributed articles covering technology, culture, and student affairs, amplifying student voices through impactful storytelling.
+
 
 
 
