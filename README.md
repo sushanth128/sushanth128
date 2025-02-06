@@ -51,13 +51,6 @@ Teaching Assistant: Applied Econometrics (Spring'24 & Fall ‘24) - Statistical 
 - Conducted market analysis on 100K+ transaction records to identify token adoption trends and forecasted a 20% growth potential in the tourism sector
 - Researched blockchain security protocols, consensus mechanisms (PoS & PoW), and smart contract vulnerabilities to enhance the reliability and efficiency of decentralized transactions. Presented findings and technical insights to faculty and stakeholders
 
-
-## 🔹 Projects 𓆝 𓆟 𓆞
-
-
-## 🔹 Volunteering 𓆝 𓆟 𓆞
-
-
 ## 🔹 Leadership and Awards 𓆝 𓆟 𓆞
 
 #### 🏆 Awards
@@ -78,6 +71,11 @@ Editor, Editorial Board – Managed and refined high-quality written content for
 
 Writer, MTTN – Contributed articles covering technology, culture, and student affairs, amplifying student voices through impactful storytelling.
 
+
+## 🔹 Projects 𓆝 𓆟 𓆞
+
+
+## 🔹 Volunteering 𓆝 𓆟 𓆞
 
 
 
